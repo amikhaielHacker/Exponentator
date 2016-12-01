@@ -7,7 +7,7 @@
 //
 
 #include <iostream>
-#include <math.h> //I imported this for use the 'pow' function
+#include <math.h> //I imported this module for use the 'pow' function
 
 using namespace std;
 
